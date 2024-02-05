@@ -1,0 +1,51 @@
+.container {
+    /*
+    @TODO-2 
+    Tambahkan Property berikut untuk class container
+    1. lebar 90vw
+    2. tinggi 90vh
+    3. warna tulisan white
+    4. warna background drakcyan
+    5. sudut border 1em
+    6. jarak luar 0 auto
+    7. jarak dalam 1em
+    */
+    
+}
+.header {
+    /* 
+    @TODO-3
+    Tambahkan property berikut untuk class header 
+    1. ukuran font 24px
+    2. tulisan rata tengah
+    3. tulisan tebal
+    */
+
+    
+}
+
+.content {
+    /* 
+    @TODO-4
+    Tambahkan property berikut untuk class content
+    1. tulisan rata kiri dan kanan
+    2. ukuran spasi 24px
+    3. jenis huruf Courier New
+    4. batas luar 40px
+    */
+    
+}
+
+.footer {
+    /* 
+    @TODO-5
+    Tambahkan property berikut untuk class footer
+    1. tulisan rata tengah
+    2. beri posisi di bawah 0
+    3. tinggi 100px
+    4. beri posisi kiri 0
+    5. posisi di set absolute
+    6. lebar 100%
+    */
+    
+}
